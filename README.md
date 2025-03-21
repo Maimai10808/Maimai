@@ -1,4 +1,4 @@
-# Maimai
+# Maimai.en
 
 <h1 align="center">Hi there, I'm [你的名字] 👋</h1>
 
